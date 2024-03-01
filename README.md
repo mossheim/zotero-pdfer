@@ -25,3 +25,7 @@ library-type: "user" or "group". Defaults to "user".
 	./zotero-pdfer.py  /home/moss/Zotero/storage  19628390  0VnH8ZDXP7lR8huVHj3w1e1c  user
 
 Might take a while to make or sync a pdf :(
+
+## License
+
+MIT License
